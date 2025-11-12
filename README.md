@@ -127,4 +127,4 @@ By focusing on product optimization, inventory management, employee performance,
 
 ## 🙏 **Acknowledgements**
 
-Special thanks to the **Excel Analytics Capstone program** for providing the structured learning experience and datasets that inspired this analytical exploration.  
+Special thanks to the 10Analytics Capstone program** for providing the structured learning experience and datasets that inspired this analytical exploration.  
